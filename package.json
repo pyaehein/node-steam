@@ -6,14 +6,14 @@
   "main": "./lib/steam_client",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seishun/node-steam.git"
+    "url": "https://github.com/pyaehein/node-steam.git"
   },
   "dependencies": {
     "adm-zip": "^0.4",
     "buffer-crc32": "^0.2",
     "bytebuffer": "^5.0",
     "steam-crypto": "^0.0",
-    "steam-resources": "github:odota/node-steam-resources"
+    "steam-resources": "github:pyaehein/node-steam-resources"
   },
   "engines": {
     "node": ">=4.1.1"
